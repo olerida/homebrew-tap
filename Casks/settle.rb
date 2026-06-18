@@ -1,8 +1,8 @@
 cask "settle" do
-  version "1.1.0"
-  sha256 "5fecec656d2d01ff47f51cae46bff0001129d691f10b87f913add8a2aa608b37"
+  version "1.2.0"
+  sha256 "b06dc8afc32aeee11a0d9c6c7abdbd5f6835c2ac6909c612fa3859761504a735"
 
-  url "https://github.com/olerida/Settle/releases/download/v1.1.0/Settle.dmg"
+  url "https://github.com/olerida/Settle/releases/download/v1.2.0/Settle.dmg"
   name "Settle"
   desc "Guarda y restaura layouts de ventanas en macOS"
   homepage "https://github.com/olerida/Settle"
