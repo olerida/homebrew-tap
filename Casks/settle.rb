@@ -1,11 +1,11 @@
 cask "settle" do
-  version "1.2.1"
-  sha256 "bc69777e1685207162cf1e5d3e9fa86fce4d30c9f3636a17d1d40d0852d186c4"
+  version "1.3.0"
+  sha256 "65b90249034f9281cd3418d92f35a4468d0398ca483c5d78c959dde8b7c4a181"
 
   url "https://github.com/olerida/Settle/releases/download/v#{version}/Settle.dmg"
   name "Settle"
   desc "Save and restore macOS window layouts"
-  homepage "https://github.com/olerida/Settle"
+  homepage "http://settle.titanolandia.es"
 
   app "Settle.app"
 end
