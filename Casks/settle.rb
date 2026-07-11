@@ -1,8 +1,8 @@
 cask "settle" do
-  version "1.5.0"
-  sha256 "1144bf12a9c7467ba58eb8ff7b48f17272af386fcbf6b6eea43b7c462d2d2f8b"
+  version "1.6.0"
+  sha256 "04cef9af7598a1cb9b0b1da53ef528c1038f7f9ddd3e303378ddae2e3b8a010a"
 
-  url "https://github.com/olerida/Settle/releases/download/v#{version}/Settle.dmg",
+  url "https://github.com/olerida/Settle/releases/download/v#{version}/Settle-#{version}.dmg",
       verified: "github.com/olerida/Settle/"
   name "Settle"
   desc "Save and restore window layouts from the menu bar"
