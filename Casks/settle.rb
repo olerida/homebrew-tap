@@ -1,6 +1,6 @@
 cask "settle" do
-  version "1.9.1"
-  sha256 "bfe5ca6ecacb12981d82e033b9ba29a407f1051a95e6cd400ea44154d9a6f617"
+  version "1.10.0"
+  sha256 "284de2fe3ec77c4b0ee924eb1c339e2b930afcca02bf050ad9f99d24220e7ddd"
 
   url "https://github.com/olerida/Settle/releases/download/v#{version}/Settle-#{version}.dmg",
       verified: "github.com/olerida/Settle/"
