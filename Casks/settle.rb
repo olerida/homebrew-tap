@@ -6,7 +6,7 @@ cask "settle" do
       verified: "github.com/olerida/Settle/"
   name "Settle"
   desc "Save and restore window layouts from the menu bar"
-  homepage "http://settle.titanolandia.es/"
+  homepage "https://settle.titanolandia.es/"
 
   depends_on macos: :sonoma
 
