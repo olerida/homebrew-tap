@@ -1,6 +1,6 @@
 cask "aiusage" do
-  version "1.2.2"
-  sha256 "100993723f2d0a13304498711baa3f8ce18c1c45927c13e0132871bb700251ab"
+  version "1.3.0"
+  sha256 "aef5335a3e0bc9284f12a7b46ab4cd37ba192c6d52420d359f0dcc97cf99ec43"
 
   url "https://github.com/olerida/AIusage/releases/download/v#{version}/AIusage-macos-universal.zip"
   name "AI Usage MB"
